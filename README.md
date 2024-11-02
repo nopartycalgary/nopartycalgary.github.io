@@ -1,2 +1,2 @@
-# nopartycalgary.github.io
+# No Party Calgary
 The Website
