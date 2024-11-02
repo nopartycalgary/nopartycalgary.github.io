@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Helvetica;
+    padding: 10px;
+    background: #FCF04C;
+  }
+
+  .container{
+    max-width: 700px;
+    margin: auto;
+  }
+
+  h1{
+    font-size:4em;
+  }
+
+  h2{
+    font-size:2em;
+  }
+
+  p{
+    font-size: 1.2em
+  }
+
+  a{
+    color: black;
+  }
