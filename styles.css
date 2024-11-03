@@ -18,6 +18,12 @@
     margin:auto;
   }
 
+  .navbar{
+    text-align: center;
+    margin:auto;
+    margin-bottom: 20px;
+  }
+
   h1{
     font-size:4em;
   }
