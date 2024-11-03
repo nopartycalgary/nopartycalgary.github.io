@@ -13,6 +13,11 @@
     margin: auto;
   }
 
+  .center{
+    text-align: center;
+    margin:auto;
+  }
+
   h1{
     font-size:4em;
   }
